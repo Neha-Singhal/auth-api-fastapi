@@ -1,3 +1,22 @@
-users.db
+# Python cache
 __pycache__/
 *.pyc
+*.pyo
+*.pyd
+
+# Local DB
+users.db
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+
+# Environment variables
+.env
+
+# MacOS
+.DS_Store
+
+# Logs
+*.log
